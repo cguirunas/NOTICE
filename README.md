@@ -5,10 +5,14 @@
 
 The public files still available at [gitlab.com/cguirunas](https://gitlab.com/cguirunas/).
 
-claudioguirunas@gmail.com
-My personal website is [painelx.com](http://painelx.com)
-[Stackoverflow Profile](https://stackoverflow.com/users/1156752/claudio-guirunas)
-[LinkedIn Profile](https://www.linkedin.com/in/claudio-guirunas-52479b84)
+- claudioguirunas@gmail.com
+
+- [painelx.com](http://painelx.com)
+
+- [Stackoverflow Profile](https://stackoverflow.com/users/1156752/claudio-guirunas)
+
+- [LinkedIn Profile](https://www.linkedin.com/in/claudio-guirunas-52479b84)
+
 
 Kind regards,
 Claudio.
