@@ -11,7 +11,7 @@ The public files still available at [gitlab.com/cguirunas](https://gitlab.com/cg
 
 - [Stackoverflow Profile](https://stackoverflow.com/users/1156752/claudio-guirunas)
 
-- [LinkedIn Profile](https://www.linkedin.com/in/claudio-guirunas-52479b84)
+- [LinkedIn Profile](https://www.linkedin.com/in/claudio-guirunas)
 
 
 Kind regards,
